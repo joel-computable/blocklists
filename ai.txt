@@ -1,0 +1,15 @@
+||chatgpt.com^
+||openai.com^
+||gemini.google.com^
+||notion.com^
+||quillbot.com^
+||grammarly.com^
+||hyperwriteai.com^
+||caktus.ai^
+||studentai.app^
+||elicit.com^
+||semanticscholar.org^
+||chatpdf.com^
+||consensus.app^
+||perplexity.ai^
+||otter.ai^
